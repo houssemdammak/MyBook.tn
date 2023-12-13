@@ -68,7 +68,7 @@ require 'header.php';
 	          </div>
 	          <div class="pb-md-5 pb-4">
 							<p>Made by the two big engineers Houssem Dammak And Yasmine Ghorbel<p>
-							<p><a href="#" class="btn btn-primary">Shop now</a></p>
+							<p><a href="shop.php" class="btn btn-primary">Shop now</a></p>
 						</div>
 					</div>
 				</div>
